@@ -6,7 +6,7 @@ My name is *Geoff English*.
 
 I'm a PhD student studying the genetics and heritability of ADHD.
 
-I'm a beginner statistician, R and python programmer and command line user. Vim fan.
+I'm a beginner statistician, R and python programmer and command line user and a Vim fan.
 
 Planning on using this account for:
 
