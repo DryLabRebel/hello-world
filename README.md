@@ -17,3 +17,7 @@ Planning on using this account for:
 I have a blog:
 
 https://www.geoffreyenglish.wordpress.com
+
+and a caffiene addiction.
+
+I love listening to chiptune and cyberpunk while I work because why not nerd out if you can?
