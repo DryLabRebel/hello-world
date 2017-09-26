@@ -1,7 +1,8 @@
 # hello-world
-The obligatory hello world repo.
 
-My name is Geoff English.
+> The obligatory hello world repo.
+
+My name is *Geoff English*.
 
 I'm a PhD student studying the genetics and heritability of ADHD.
 
@@ -15,4 +16,4 @@ Planning on using this account for:
 
 I have a blog:
 
-www.geoffreyenglish.wordpress.com
+https://www.geoffreyenglish.wordpress.com
